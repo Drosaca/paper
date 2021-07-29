@@ -2,7 +2,7 @@
 Go implementation of [paperify](https://github.com/alisinabh/paperify)
 
 
-##Usage
+## Usage
 ```
 Usage of paper:
 -digital
