@@ -28,6 +28,6 @@ func ParseArgs() {
 
 func Log(a ...interface{})  {
 	if SysArgs.Verbose {
-		fmt.Println(a)
+		fmt.Println(a...)
 	}
 }
