@@ -6,7 +6,7 @@ import (
 	wwqrc "github.com/yeqown/go-qrcode"
 	"io/ioutil"
 	"os"
-	"paper/stat"
+	"paperify/stat"
 	"path"
 	"path/filepath"
 	"strconv"

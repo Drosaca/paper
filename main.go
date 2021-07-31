@@ -1,10 +1,10 @@
 package main
 
 import (
-	"paper/fn"
-	"paper/qr"
-	"paper/stat"
 	"fmt"
+	"paperify/fn"
+	"paperify/qr"
+	"paperify/stat"
 )
 
 

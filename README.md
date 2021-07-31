@@ -19,7 +19,7 @@ aka paperify -> creates the Qr code from ONE FILE
 ```
 Example:
 
-$> paper -i /path/to/file -o /path/to/output_folder -paper 
+$> paperify -i /path/to/file -o /path/to/output_folder -paper 
 
-$> paper -i /path/to/qrcodes/folder -o ./filename.file -digital
+$> paperify -i /path/to/qrcodes/folder -o ./filename.file -digital
 ```
